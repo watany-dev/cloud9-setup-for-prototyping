@@ -21,7 +21,7 @@ cd cloud9-setup-for-prototyping
 
 ## Cloud9 for Prototyping
 
-- Amazon Linux 2.x on m5.large
+- Amazon Linux 2023 on t3.large
 - Change instance volume from 10GB to 128GB
 - Update AWS CLI version from 1.x to 2.x
 - Automatic stop time minutes is 30 min
